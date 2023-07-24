@@ -1,5 +1,4 @@
-# OpenCV
-optic reader with opencv  
+# Optic-Reader
 # Main Optic 
 ![image](https://github.com/omerulusoy41/OpenCV/assets/73287349/8d63d82e-423c-4d1e-b719-7b30764fa672)
 ## Some Answer Sheets
